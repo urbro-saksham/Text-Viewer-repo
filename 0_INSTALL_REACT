@@ -1,0 +1,27 @@
+## U have run following commands to install react js in your project
+   
+   #1 'cd c:\users\saksham\react' --> Through 'cd' u r migrating to the path where u want to install  it.
+
+   #2 'npx create-react-app folder-name'  --> This'll install the folder
+
+   #3 'cd folder-name'
+
+   #4 'npm start' 
+
+
+
+   'npm install name'  -> by this u can install missing pieces just u have to write their name in name.
+
+                                ##OR
+
+## Run these commands to install vite-react in your project
+
+   #1 'cd c:\users\saksham\react' --> Through 'cd' u r migrating to the path where u want to install  it.
+
+   #2 'npm create vite@latest'  --> This'll install the folder
+
+   #3 'cd your-project-name'
+
+   #4 'npm install' 
+
+   #5 'npm run dev' ---> Not npm start  in vite
